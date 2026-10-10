@@ -1,4 +1,4 @@
-<!-- ============ REPLACE: YOUR_USERNAME, YOUR NAME, links ============ -->
+<!-- y============ REPLACE: YOUR_USERNAME, Pranjal, links ============ -->
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24c6dc&height=260&section=header&text=YOUR%20NAME&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=//%20breaking%20things%20%7C%20building%20better%20things&descAlignY=60&descSize=20" width="100%"/>
 
