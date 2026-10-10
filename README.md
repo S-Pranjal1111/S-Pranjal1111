@@ -1,6 +1,6 @@
 <!-- y============ REPLACE: S-Pranjal1111, Pranjal, links ============ -->
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24c6dc&height=260&section=header&text=YOUR%20NAME&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=//%20breaking%20things%20%7C%20building%20better%20things&descAlignY=60&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24c6dc&height=260&section=header&text=PRANJAL&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=//%20breaking%20things%20%7C%20building%20better%20things&descAlignY=60&descSize=20" width="100%"/>
 
 <div align="center">
 
