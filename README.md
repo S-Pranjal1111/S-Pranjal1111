@@ -61,13 +61,6 @@ const me = {
 
 </div>
 
-## 🏆 &nbsp;Trophy Room
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=S-Pranjal1111&theme=onedark&no-frame=true&no-bg=true&margin-w=10&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
 
 ## 📈 &nbsp;Activity Graph
 
@@ -85,16 +78,6 @@ const me = {
 
 </div>
 
-## 🌐 &nbsp;Let's Connect
-
-<div align="center">
-
-<a href="https://fiverr.com/YOUR_FIVERR"><img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" /></a>
-<a href="https://twitter.com/YOUR_HANDLE"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-<a href="https://instagram.com/YOUR_HANDLE"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="mailto:you@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-
-<br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24c6dc,50:302b63,100:0f0c29&height=140&section=footer&animation=twinkling" width="100%"/>
 
