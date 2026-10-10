@@ -1,4 +1,4 @@
-<!-- y============ REPLACE: YOUR_USERNAME, Pranjal, links ============ -->
+<!-- y============ REPLACE: S-Pranjal1111, Pranjal, links ============ -->
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24c6dc&height=260&section=header&text=YOUR%20NAME&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=//%20breaking%20things%20%7C%20building%20better%20things&descAlignY=60&descSize=20" width="100%"/>
 
@@ -6,9 +6,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=24C6DC&center=true&vCenter=true&multiline=false&width=700&lines=%3E+Hello%2C+world.+I'm+YOUR+NAME;%3E+Turning+messy+data+into+clean+data;%3E+Building+automation+%26+cool+side+projects;%3E+Coffee+%E2%86%92+Code+%E2%86%92+Repeat;%3E+Currently+leveling+up+every+day+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&color=24c6dc&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=FOLLOWERS&style=for-the-badge&color=302b63&logo=github" />
-<img src="https://img.shields.io/github/stars/YOUR_USERNAME?label=STARS&style=for-the-badge&color=0f0c29&logo=github" />
+<img src="https://komarev.com/ghpvc/?username=S-Pranjal1111&label=PROFILE+VIEWS&color=24c6dc&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/S-Pranjal1111?label=FOLLOWERS&style=for-the-badge&color=302b63&logo=github" />
+<img src="https://img.shields.io/github/stars/S-Pranjal1111?label=STARS&style=for-the-badge&color=0f0c29&logo=github" />
 
 </div>
 
@@ -57,10 +57,10 @@ const me = {
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=24c6dc&icon_color=24c6dc&text_color=ffffff&ring_color=24c6dc" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=24c6dc&text_color=ffffff" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=S-Pranjal1111&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=24c6dc&icon_color=24c6dc&text_color=ffffff&ring_color=24c6dc" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-Pranjal1111&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=24c6dc&text_color=ffffff" />
 <br/>
-<img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0f0c29&ring=24c6dc&fire=ff6b35&currStreakLabel=24c6dc" />
+<img src="https://streak-stats.demolab.com/?user=S-Pranjal1111&theme=tokyonight&hide_border=true&background=0f0c29&ring=24c6dc&fire=ff6b35&currStreakLabel=24c6dc" />
 
 </div>
 
@@ -68,7 +68,7 @@ const me = {
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark&no-frame=true&no-bg=true&margin-w=10&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=S-Pranjal1111&theme=onedark&no-frame=true&no-bg=true&margin-w=10&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -76,7 +76,7 @@ const me = {
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0f0c29&color=24c6dc&line=302b63&point=ffffff&area=true&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=S-Pranjal1111&bg_color=0f0c29&color=24c6dc&line=302b63&point=ffffff&area=true&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -84,7 +84,7 @@ const me = {
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="snake" />
+<img src="https://raw.githubusercontent.com/S-Pranjal1111/S-Pranjal1111/output/github-contribution-grid-snake-dark.svg" alt="snake" />
 
 </div>
 
