@@ -17,7 +17,7 @@
 ```ansi
 ╔══════════════════════════════════════════════════════════╗
 ║  > whoami                                                ║
-║  YOUR NAME — dev / hustler / problem solver              ║
+║  Pranjal — dev / hustler / problem solver              ║
 ║                                                          ║
 ║  > cat status.txt                                        ║
 ║  [■■■■■■■■■□] 90%  caffeine                              ║
@@ -30,7 +30,7 @@
 
 ```js
 const me = {
-  name: "YOUR NAME",
+  name: "Pranjal",
   location: "Nepal 🏔️",
   currentlyBuilding: ["Cool project #1", "Cool project #2"],
   currentlyLearning: ["Python", "Automation", "AI tools"],
