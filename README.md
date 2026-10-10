@@ -1,10 +1,10 @@
-<!-- y============ REPLACE: S-Pranjal1111, Pranjal, links ============ -->
+<!-- Replace the Fiverr, X, Instagram and email links at the bottom with your own -->
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24c6dc&height=260&section=header&text=PRANJAL&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=//%20breaking%20things%20%7C%20building%20better%20things&descAlignY=60&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24c6dc&height=260&section=header&text=Pranjal&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=//%20breaking%20things%20%7C%20building%20better%20things&descAlignY=60&descSize=20" width="100%"/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=24C6DC&center=true&vCenter=true&multiline=false&width=700&lines=%3E+Hello%2C+world.+I'm+YOUR+NAME;%3E+Turning+messy+data+into+clean+data;%3E+Building+automation+%26+cool+side+projects;%3E+Coffee+%E2%86%92+Code+%E2%86%92+Repeat;%3E+Currently+leveling+up+every+day+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=24C6DC&center=true&vCenter=true&multiline=false&width=700&lines=%3E+Hello%2C+world.+I'm+Pranjal;%3E+Turning+messy+data+into+clean+data;%3E+Building+automation+%26+cool+side+projects;%3E+Coffee+%E2%86%92+Code+%E2%86%92+Repeat;%3E+Currently+leveling+up+every+day+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=S-Pranjal1111&label=PROFILE+VIEWS&color=24c6dc&style=for-the-badge" />
 <img src="https://img.shields.io/github/followers/S-Pranjal1111?label=FOLLOWERS&style=for-the-badge&color=302b63&logo=github" />
@@ -17,7 +17,7 @@
 ```ansi
 ╔══════════════════════════════════════════════════════════╗
 ║  > whoami                                                ║
-║  Pranjal — dev / hustler / problem solver              ║
+║  Pranjal — dev / hustler / problem solver                ║
 ║                                                          ║
 ║  > cat status.txt                                        ║
 ║  [■■■■■■■■■□] 90%  caffeine                              ║
@@ -44,12 +44,9 @@ const me = {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=py,js,ts,html,css,react,nodejs,git,github,vscode,linux,sqlite,figma&theme=dark" />
+<img src="https://skillicons.dev/icons?i=c,cpp,js,html,css,py,postgres,github,vscode&theme=dark" />
 <br/><br/>
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-<img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white" />
 
 </div>
 
