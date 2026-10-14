@@ -8,7 +8,6 @@ I turn messy Excel, CSV and Google Sheets files into clean, usable data, and I'm
 
 - Currently learning Python, automation and AI tools
 - Open to collaborations and freelance work
-- Ask me about data cleaning and Excel / Google Sheets
 
 ## Work with me
 
