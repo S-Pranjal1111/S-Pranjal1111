@@ -1,84 +1,44 @@
-<!-- Replace the Fiverr, X, Instagram and email links at the bottom with your own -->
+# Hi, I'm Pranjal
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24c6dc&height=260&section=header&text=Pranjal&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=//%20breaking%20things%20%7C%20building%20better%20things&descAlignY=60&descSize=20" width="100%"/>
+Data cleaning and spreadsheet work, with a growing focus on Python and automation. Based in Nepal.
 
-<div align="center">
+I turn messy Excel, CSV and Google Sheets files into clean, usable data, and I'm learning to automate the repetitive parts.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=24C6DC&center=true&vCenter=true&multiline=false&width=700&lines=%3E+Hello%2C+world.+I'm+Pranjal;%3E+Turning+messy+data+into+clean+data;%3E+Building+automation+%26+cool+side+projects;%3E+Coffee+%E2%86%92+Code+%E2%86%92+Repeat;%3E+Currently+leveling+up+every+day+%F0%9F%9A%80)](https://git.io/typing-svg)
+## About
 
-<img src="https://komarev.com/ghpvc/?username=S-Pranjal1111&label=PROFILE+VIEWS&color=24c6dc&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/S-Pranjal1111?label=FOLLOWERS&style=for-the-badge&color=302b63&logo=github" />
-<img src="https://img.shields.io/github/stars/S-Pranjal1111?label=STARS&style=for-the-badge&color=0f0c29&logo=github" />
+- Cleaning and restructuring messy spreadsheets and CSV files
+- Currently learning Python, automation and AI tools
+- Open to collaborations and freelance work
+- Ask me about data cleaning and Excel / Google Sheets
 
-</div>
+## Work with me
 
----
+I take on data-cleaning jobs: fixing and tidying Excel, CSV and Google Sheets files so they're ready to analyse, share or import.
 
-```ansi
-╔══════════════════════════════════════════════════════════╗
-║  > whoami                                                ║
-║  Pranjal — dev / hustler / problem solver                ║
-║                                                          ║
-║  > cat status.txt                                        ║
-║  [■■■■■■■■■□] 90%  caffeine                              ║
-║  [■■■■■■■□□□] 70%  sleep                                 ║
-║  [■■■■■■■■■■] 100% motivation                            ║
-╚══════════════════════════════════════════════════════════╝
-```
+## Tech stack
 
-## 👾 &nbsp;About Me
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,js,html,css,py,postgres,github,vscode" alt="C, C++, JavaScript, HTML, CSS, Python, PostgreSQL, GitHub, VS Code" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge" alt="SQL" />
+</p>
 
-```js
-const me = {
-  name: "Pranjal",
-  location: "Nepal 🏔️",
-  currentlyBuilding: ["Cool project #1", "Cool project #2"],
-  currentlyLearning: ["Python", "Automation", "AI tools"],
-  askMeAbout: ["Data cleaning", "Excel / Sheets wizardry", "Side hustles"],
-  funFact: "I debug with vibes first, logic second",
-  lookingFor: "Collabs, clients & chaos",
-};
-```
+## GitHub stats
 
-## ⚡ &nbsp;Arsenal
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=S-Pranjal1111&show_icons=true&theme=github_dark&hide_border=true">
+    <img alt="GitHub stats" height="165" src="https://github-readme-stats.vercel.app/api?username=S-Pranjal1111&show_icons=true&theme=default&hide_border=true">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=S-Pranjal1111&layout=compact&theme=github_dark&hide_border=true">
+    <img alt="Top languages" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-Pranjal1111&layout=compact&theme=default&hide_border=true">
+  </picture>
+</p>
 
-<div align="center">
+<!--
+Add this section once you have projects to show (or just pin your best repos on your profile):
 
-<img src="https://skillicons.dev/icons?i=c,cpp,js,html,css,py,postgres,github,vscode&theme=dark" />
-<br/><br/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white" />
+## Projects
 
-</div>
-
-## 📊 &nbsp;Stats
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=S-Pranjal1111&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=24c6dc&icon_color=24c6dc&text_color=ffffff&ring_color=24c6dc" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-Pranjal1111&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=24c6dc&text_color=ffffff" />
-<br/>
-<img src="https://streak-stats.demolab.com/?user=S-Pranjal1111&theme=tokyonight&hide_border=true&background=0f0c29&ring=24c6dc&fire=ff6b35&currStreakLabel=24c6dc" />
-
-</div>
-
-
-## 📈 &nbsp;Activity Graph
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=S-Pranjal1111&bg_color=0f0c29&color=24c6dc&line=302b63&point=ffffff&area=true&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
-
-</div>
-
-## 🐍 &nbsp;Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/S-Pranjal1111/S-Pranjal1111/output/github-contribution-grid-snake-dark.svg" alt="snake" />
-
-</div>
-
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24c6dc,50:302b63,100:0f0c29&height=140&section=footer&animation=twinkling" width="100%"/>
-
-</div>
+- [project-name](https://github.com/S-Pranjal1111/project-name): one-line description of what it does
+-->
