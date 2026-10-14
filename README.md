@@ -6,14 +6,13 @@ I turn messy Excel, CSV and Google Sheets files into clean, usable data, and I'm
 
 ## About
 
-- Cleaning and restructuring messy spreadsheets and CSV files
 - Currently learning Python, automation and AI tools
 - Open to collaborations and freelance work
 - Ask me about data cleaning and Excel / Google Sheets
 
 ## Work with me
 
-I take on data-cleaning jobs: fixing and tidying Excel, CSV and Google Sheets files so they're ready to analyse, share or import.
+I take on data-cleaning and web building jobs: fixing Excel, CSV and Google Sheets files so they're ready to analyze or process, and building websites using AI tools.
 
 ## Tech stack
 
